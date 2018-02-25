@@ -8,13 +8,14 @@ As a consequence, these objects, particularly when they are physically manipulat
 
 The project was developed by Lucien Langton (ECAL / Cyberschnaps)
 
-Note: only a part of the implementation of the code for the five objects has been initially realized, as a demonstrator. Notably, the object To_FREEZE is the one that has been developed the furthest to serve as example for the four others objects and for potential forks. The code is commented so to help distinguish the parts that are done versus the ones that are not yet.
-
 # Read Me First / License agreement
 
 The 5 Connected Objects and associated documentation files (the "Object") is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC 2017) (https://creativecommons.org/licenses/by-nc-sa/4.0/). The Object shall therefore not be sold and should follow the restrictions implied by the chosen Creative Commons License.
 
 In addition to these conditions, the Object is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of usability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with the 5 Connected Objects or the use or other dealings in the Object. By using the Object you accept these conditions.
+
+# Note
+Only a part of the implementation of the code for the five objects has been initially realized, as a demonstrator. Notably, the object To_FREEZE is the one that has been developed the furthest to serve as example for the four others objects and for potential forks. The code is commented so to help distinguish the parts that are done versus the ones that are not yet.
 
 You would probably as well be advised to also consult the "Cookbooks" (manuals and recipes) available online for a better understanding of the whole Cloud of Cards ecosystem:
 
